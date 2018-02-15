@@ -1,6 +1,6 @@
 # edcontext-open
 
-Demo: https://edcos-demo.herokuapp.com/schools/alpha-elementary
+Demo: https://edcos-demo.herokuapp.com/schools/gamma-high
 
 This repository is for experimenting!  It contains three pieces:
 - A webapp for visualizing and understanding MCIEA survey data
