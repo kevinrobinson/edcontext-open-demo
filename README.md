@@ -1,5 +1,7 @@
 # edcontext-open
 
+Demo: https://edcos-demo.herokuapp.com/schools/alpha-elementary
+
 This repository is for experimenting!  It contains three pieces:
 - A webapp for visualizing and understanding MCIEA survey data
 - Tasks for processing and indexing raw survey data
@@ -7,28 +9,21 @@ This repository is for experimenting!  It contains three pieces:
 
 This is a Rails project, deployed on Heroku.  There's a private GitHub repo that contains more historical information; contact @jaredcosulich for more info.
 
-## Demo
-Visit https://edcos-demo.herokuapp.com/
-
-Demo login:
-- username: demo@demo.edcontext.org
-- password: demo
-
 ## Screenshots
 #### Login
-![docs/login.png](login)
+![https://github.com/kevinrobinson/edcos-demo/raw/master/docs/login.png](login)
 
 #### Districts and Schools
-![docs/home.png](home)
+![https://github.com/kevinrobinson/edcos-demo/raw/master/docs/home.png](home)
 
 #### School overview
-![docs/school.png](school)
+![https://github.com/kevinrobinson/edcos-demo/raw/master/docs/school.png](school)
 
 #### Drill into measures
-![docs/drill1.png](drill)
+![https://github.com/kevinrobinson/edcos-demo/raw/master/docs/drill1.png](drill)
 
 #### Down into item-level responses
-![docs/drill2.png](drill2)
+![https://github.com/kevinrobinson/edcos-demo/raw/master/docs/drill2.png](drill2)
 
 ## Local development
 ```
