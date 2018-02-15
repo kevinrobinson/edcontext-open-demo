@@ -16,19 +16,19 @@ Demo login:
 
 ## Screenshots
 #### Login
-[docs/login.png](login)
+![docs/login.png](login)
 
 #### Districts and Schools
-[docs/home.png](home)
+![docs/home.png](home)
 
 #### School overview
-[docs/school.png](school)
+![docs/school.png](school)
 
 #### Drill into measures
-[docs/drill1.png](drill)
+![docs/drill1.png](drill)
 
 #### Down into item-level responses
-[docs/drill2.png](drill2)
+![docs/drill2.png](drill2)
 
 ## Local development
 ```

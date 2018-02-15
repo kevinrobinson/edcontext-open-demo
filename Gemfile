@@ -48,9 +48,12 @@ gem 'friendly_id', '~> 5.1.0'
 gem 'newrelic_rpm'
 
 gem 'devise'
-gem 'omniauth'
+gem 'omniauth', '~> 1.3.2' # bump transitive dependency
 
 gem 'twilio-ruby', '~> 4.11.1'
+
+gem 'nokogiri', '~> 1.8.1' # bump transitive dependency
+
 
 
 
