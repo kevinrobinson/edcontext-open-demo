@@ -7,7 +7,8 @@ This repository is for experimenting!  It contains three pieces:
 
 This is a Rails project, deployed on Heroku.  There's a private GitHub repo that contains more historical information; contact @jaredcosulich for more info.
 
-https://edcos-demo.herokuapp.com/
+## Demo
+Visit https://edcos-demo.herokuapp.com/
 
 Demo login:
 - username: demo@demo.edcontext.org
