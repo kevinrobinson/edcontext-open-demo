@@ -11,19 +11,19 @@ This is a Rails project, deployed on Heroku.  There's a private GitHub repo that
 
 ## Screenshots
 #### Login
-![https://github.com/kevinrobinson/edcos-demo/raw/master/docs/login.png](login)
+![login.png](docs/login.png)
 
 #### Districts and Schools
-![https://github.com/kevinrobinson/edcos-demo/raw/master/docs/home.png](home)
+![home.png](docs/home.png)
 
 #### School overview
-![https://github.com/kevinrobinson/edcos-demo/raw/master/docs/school.png](school)
+![school.png](docs/school.png)
 
 #### Drill into measures
-![https://github.com/kevinrobinson/edcos-demo/raw/master/docs/drill1.png](drill)
+![drill1.png](docs/drill1.png)
 
 #### Down into item-level responses
-![https://github.com/kevinrobinson/edcos-demo/raw/master/docs/drill2.png](drill2)
+![drill2.png](docs/drill2.png)
 
 ## Local development
 ```
